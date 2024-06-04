@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inienty.github.io/sitemap.html
+Sitemap: https://inienty.github.io/app/sitemap.html
+Sitemap: https://inienty.github.io/assets/sitemap.html
+Sitemap: https://inienty.github.io/includes/sitemap.html
+Sitemap: https://inienty.github.io/src/sitemap.html
